@@ -35,4 +35,5 @@ After generating node embeddings, please refer to the following example to score
 <code>cal\_type<code> specifies the method to calculate scores on edges.
 
 ## Acknowledgements
+
 We leveraged [DeepWalk](https://github.com/phanein/deepwalk) to implement our framework. Thanks for the great work!
