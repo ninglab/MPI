@@ -31,7 +31,7 @@ After generating node embeddings, please refer to the following example to score
 
 <code>all\_drug\_id\_name\_file</code> specifies the file containing the mapping between drug name and node id in the network.
 
-<code>cal\_type<code> specifies the method to calculate scores on edges.
+<code>cal\_type</code> specifies the method to calculate scores on edges.
 
 ## Acknowledgements
 
