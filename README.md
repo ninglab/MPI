@@ -23,8 +23,7 @@ Please run the following command to generate embeddings for all the nodes in the
 
 After generating node embeddings, please refer to the following example to score drugs.
 
-`python prob_scoring.py --graph_file Network_forDeepwalk.txt --emb Network.embeddings --all_drug_id_name_file all_drugName_nodeID.txt --target_drug_id_name_file all_drugName_nodeID.txt --cal_type dotProd_softmax --outprefix ./score_ourMethod
-`
+`python prob_scoring.py --graph_file Network_forDeepwalk.txt --emb Network.embeddings --all_drug_id_name_file all_drugName_nodeID.txt --target_drug_id_name_file all_drugName_nodeID.txt --cal_type dotProd_softmax --outprefix ./score_ourMethod`
 
 <code>graph\_file</code> specifies the network file.
 
